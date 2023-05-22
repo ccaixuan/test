@@ -1,0 +1,1 @@
+document.write("HELLO我是陳采暄!!!好喜歡(G)I-DLE ")
